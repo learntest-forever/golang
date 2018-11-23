@@ -1,0 +1,17 @@
+[
+  {
+    "case": [
+      {
+        "title": "testcase",
+        "name": "test1-1",
+        "qtype": ["a","b","c"]
+      },
+      {
+        "title": "testcase2",
+        "name": "test1-2",
+        "qtype": ["d","e","f"]
+      }
+    ]
+  }
+]
+
